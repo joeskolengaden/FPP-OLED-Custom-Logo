@@ -1,4 +1,4 @@
-# OLED Boot Logo (FPP plugin)
+# FPP OLED Custom Logo
 
 Show a **custom company logo and name** on the device's 0.96″ (128×64 SSD1306)
 OLED at boot and while the device is idle. Upload any image, type your company

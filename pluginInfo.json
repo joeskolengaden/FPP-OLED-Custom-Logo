@@ -1,11 +1,11 @@
 {
-	"repoName": "oledlogo",
-	"name": "OLED Boot Logo",
+	"repoName": "FPP-OLED-Custom-Logo",
+	"name": "FPP OLED Custom Logo",
 	"author": "joeskolengaden",
 	"description": "Show a custom company logo and name on the device's 0.96\" (128x64 SSD1306) OLED at boot and while idle. Upload any image, add your company name, and the plugin converts it to a monochrome bitmap that FPP's OLED driver draws as the boot/cape logo. No hardware cape required. Works on FPP 5.4 onwards.",
-	"homeURL": "https://github.com/joeskolengaden/oledlogo",
-	"srcURL": "https://github.com/joeskolengaden/oledlogo.git",
-	"bugURL": "https://github.com/joeskolengaden/oledlogo/issues",
+	"homeURL": "https://github.com/joeskolengaden/FPP-OLED-Custom-Logo",
+	"srcURL": "https://github.com/joeskolengaden/FPP-OLED-Custom-Logo.git",
+	"bugURL": "https://github.com/joeskolengaden/FPP-OLED-Custom-Logo/issues",
 	"allowUpdates": 1,
 	"hasSettingsPage": 1,
 	"versions": [

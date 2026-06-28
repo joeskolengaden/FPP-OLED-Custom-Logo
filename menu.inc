@@ -1,8 +1,8 @@
 <?php
 // Menu entries for the OLED Boot Logo plugin (FPP includes this per menu section).
 $menuEntries = Array(
-    Array('text' => 'OLED Boot Logo', 'type' => 'content', 'page' => 'plugin.php', 'wrap' => 1),
-    Array('text' => 'OLED Boot Logo - Help', 'type' => 'help', 'page' => 'https://github.com/joeskolengaden/oledlogo', 'wrap' => 1)
+    Array('text' => 'FPP OLED Custom Logo', 'type' => 'content', 'page' => 'plugin.php', 'wrap' => 1),
+    Array('text' => 'FPP OLED Custom Logo - Help', 'type' => 'help', 'page' => 'https://github.com/joeskolengaden/FPP-OLED-Custom-Logo', 'wrap' => 1)
 );
 foreach ($menuEntries as $entry) {
     if ($entry['type'] != $menu) continue;

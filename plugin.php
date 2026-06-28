@@ -141,7 +141,7 @@ $ol = ol_load_settings();
 
 <script>
 (function(){
-  var base = 'plugin.php?plugin=oledlogo&page=';
+  var base = 'plugin.php?plugin=<?= htmlspecialchars(basename(__DIR__)) ?>&page=';
   var $ = function(id){return document.getElementById(id);};
   var pendingFile = null, t = null;
 
